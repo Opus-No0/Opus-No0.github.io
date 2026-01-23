@@ -21,9 +21,9 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Notes',
+        text: '纪要',
         items: [
-          { text: '', link: '/notes/v1-0123' }
+          { text: '1. 初版分工 0123', link: '/notes/v1-0123' }
         ]
       }
     ],

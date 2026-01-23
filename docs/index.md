@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Op. 0!"
   text: "Docs for Opus-No0"
-  tagline: My great project tagline
+  tagline: 音乐可视化
   actions:
     - theme: brand
       text: 纪要文档
@@ -14,6 +14,7 @@ hero:
       text: API Examples
       link: /api-examples
 
+
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -21,5 +22,6 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 ---
 
