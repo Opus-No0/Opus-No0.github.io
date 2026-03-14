@@ -8,9 +8,9 @@ graph TD
     C --> E
     D --> K[视频相关]
     D --> L[音源相关]
-   E --> F{风格化处理}
+   E --> F[风格化处理]
    F --> J[zimmerman]
-   E --> G{程序化处理}
+   E --> G[程序化处理]
    G --> H[Glenn agent具体化prompt]
    H --> I[czerny]
    K --> M[waterfall生成视频]
@@ -18,6 +18,7 @@ graph TD
    I --> P
    L --> N[DAW软件生成音频]
    P --> N
+   P --> M
    M --> O[web播放器]
    N --> O
 ```
